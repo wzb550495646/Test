@@ -12,4 +12,7 @@
     <bean id="userDao" factory-bean="factory" factory-method="getUserDao" ></bean>
 <!--    <bean id="userService" class="com.crazy.service.impl.UserServiceImpl" p:userDao-ref="userDao"></bean>
 -->
+    <description>
+
+    </description>
 </beans>
